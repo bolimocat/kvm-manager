@@ -1,0 +1,9 @@
+x86_host:10.30.0.20,10.30.0.13
+arm_host:10.30.0.100,10.30.0.101,10.30.0.102
+disk_path:/sata,/ssd
+iso_path:/sata/iso
+templates_path:/sata
+x86_templates:0_uos1060_x86_templates,0_kylinV10_x86_templates
+arm_templates:-,-
+x86_iso:-,-
+arm_iso:-,-
