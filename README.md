@@ -2,9 +2,9 @@
 A command-line tool for controlling KVM virtual machines
 
 kvm manager instructions : 
+
 -c help : Display help content 
- 
--c source-list : Display of all available physical resource status from properties file
+ -c source-list : Display of all available physical resource status from properties file
  
 Generate clone hosts using existing images
 ./kmanager -framework x86 -host 10.30.0.13 -method clone -path /ssd -source 0 -machine test_uos
